@@ -1,0 +1,17 @@
+RoleID,JobFamily,RoleName,OCC_CODE,IsAICritical,OfficialOccupation,PositionCount
+R01,Customer Operations,Bank Teller,43-3071,False,Tellers,1264
+R02,Customer Operations,Relationship Manager,41-3031,False,"Securities, Commodities, and Financial Services Sales Agents",1120
+R03,Customer Operations,Loan Officer,13-2072,False,Loan Officers,885
+R04,Customer Operations,Customer Service Officer,43-4051,False,Customer Service Representatives,611
+R05,Customer Operations,Loan Processing Clerk,43-4131,False,Loan Interviewers and Clerks,529
+R06,Technology and Data,Software Engineer,15-1252,False,Software Developers,228
+R07,Technology and Data,Systems Analyst,15-1211,False,Computer Systems Analysts,104
+R08,Technology and Data,Data Scientist,15-2051,True,Data Scientists,66
+R09,Technology and Data,ML Engineer,15-1252,True,Software Developers,40
+R10,Cybersecurity,Cybersecurity Analyst,15-1212,True,Information Security Analysts,67
+R11,Risk and Compliance,Credit Analyst,13-2041,False,Credit Analysts,161
+R12,Risk and Compliance,Model Risk Analyst,13-2054,True,Financial Risk Specialists,90
+R13,Risk and Compliance,AI Compliance Officer,13-1041,True,Compliance Officers,79
+R14,Finance,Branch or Finance Manager,11-3031,False,Financial Managers,545
+R15,Finance,Financial Analyst,13-2051,False,Financial and Investment Analysts,171
+R16,Finance,Accountant,13-2011,False,Accountants and Auditors,164

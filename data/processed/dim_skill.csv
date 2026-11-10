@@ -1,0 +1,21 @@
+SkillID,SkillName,AILayer,ValidationStatus
+SK001,AI concepts and limits,AI Foundations,Suggested
+SK002,Using AI tools,AI Foundations,Suggested
+SK003,Checking AI output,AI Foundations,Suggested
+SK004,Responsible AI and data use,AI Foundations,Suggested
+SK005,AI-enabled job tasks,Applied AI,Suggested
+SK006,AI workflow redesign,Applied AI,Suggested
+SK007,Machine learning,Specialist AI,Suggested
+SK008,Statistical modelling,Specialist AI,Suggested
+SK009,Model evaluation,Specialist AI,Suggested
+SK010,Generative AI development,Specialist AI,Suggested
+SK011,Data preparation,Specialist AI,Suggested
+SK012,Python programming,Specialist AI,Suggested
+SK013,Data pipeline engineering,Specialist AI,Suggested
+SK014,Model deployment and monitoring,Specialist AI,Suggested
+SK015,AI security,Specialist AI,Suggested
+SK016,Data protection and privacy,Specialist AI,Suggested
+SK017,Model validation,Specialist AI,Suggested
+SK018,AI risk assessment,Specialist AI,Suggested
+SK019,AI regulatory compliance,Specialist AI,Suggested
+SK020,AI explainability,Specialist AI,Suggested

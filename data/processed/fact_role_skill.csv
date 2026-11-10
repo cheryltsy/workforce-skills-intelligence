@@ -1,0 +1,145 @@
+RoleID,RoleName,SkillID,SkillName,AILayer,RequiredProficiency,Importance,ValidationStatus
+R01,Bank Teller,SK001,AI concepts and limits,AI Foundations,2,Medium,Suggested
+R01,Bank Teller,SK002,Using AI tools,AI Foundations,2,Medium,Suggested
+R01,Bank Teller,SK003,Checking AI output,AI Foundations,2,Medium,Suggested
+R01,Bank Teller,SK004,Responsible AI and data use,AI Foundations,2,High,Suggested
+R02,Relationship Manager,SK001,AI concepts and limits,AI Foundations,2,Medium,Suggested
+R02,Relationship Manager,SK002,Using AI tools,AI Foundations,2,Medium,Suggested
+R02,Relationship Manager,SK003,Checking AI output,AI Foundations,2,Medium,Suggested
+R02,Relationship Manager,SK004,Responsible AI and data use,AI Foundations,2,High,Suggested
+R03,Loan Officer,SK001,AI concepts and limits,AI Foundations,2,Medium,Suggested
+R03,Loan Officer,SK002,Using AI tools,AI Foundations,2,Medium,Suggested
+R03,Loan Officer,SK003,Checking AI output,AI Foundations,2,Medium,Suggested
+R03,Loan Officer,SK004,Responsible AI and data use,AI Foundations,2,High,Suggested
+R04,Customer Service Officer,SK001,AI concepts and limits,AI Foundations,2,Medium,Suggested
+R04,Customer Service Officer,SK002,Using AI tools,AI Foundations,2,Medium,Suggested
+R04,Customer Service Officer,SK003,Checking AI output,AI Foundations,2,Medium,Suggested
+R04,Customer Service Officer,SK004,Responsible AI and data use,AI Foundations,2,High,Suggested
+R05,Loan Processing Clerk,SK001,AI concepts and limits,AI Foundations,2,Medium,Suggested
+R05,Loan Processing Clerk,SK002,Using AI tools,AI Foundations,2,Medium,Suggested
+R05,Loan Processing Clerk,SK003,Checking AI output,AI Foundations,2,Medium,Suggested
+R05,Loan Processing Clerk,SK004,Responsible AI and data use,AI Foundations,2,High,Suggested
+R06,Software Engineer,SK001,AI concepts and limits,AI Foundations,3,Medium,Suggested
+R06,Software Engineer,SK002,Using AI tools,AI Foundations,3,Medium,Suggested
+R06,Software Engineer,SK003,Checking AI output,AI Foundations,3,Medium,Suggested
+R06,Software Engineer,SK004,Responsible AI and data use,AI Foundations,3,High,Suggested
+R07,Systems Analyst,SK001,AI concepts and limits,AI Foundations,3,Medium,Suggested
+R07,Systems Analyst,SK002,Using AI tools,AI Foundations,3,Medium,Suggested
+R07,Systems Analyst,SK003,Checking AI output,AI Foundations,3,Medium,Suggested
+R07,Systems Analyst,SK004,Responsible AI and data use,AI Foundations,3,High,Suggested
+R08,Data Scientist,SK001,AI concepts and limits,AI Foundations,3,Medium,Suggested
+R08,Data Scientist,SK002,Using AI tools,AI Foundations,3,Medium,Suggested
+R08,Data Scientist,SK003,Checking AI output,AI Foundations,3,Medium,Suggested
+R08,Data Scientist,SK004,Responsible AI and data use,AI Foundations,3,High,Suggested
+R09,ML Engineer,SK001,AI concepts and limits,AI Foundations,3,Medium,Suggested
+R09,ML Engineer,SK002,Using AI tools,AI Foundations,3,Medium,Suggested
+R09,ML Engineer,SK003,Checking AI output,AI Foundations,3,Medium,Suggested
+R09,ML Engineer,SK004,Responsible AI and data use,AI Foundations,3,High,Suggested
+R10,Cybersecurity Analyst,SK001,AI concepts and limits,AI Foundations,3,Medium,Suggested
+R10,Cybersecurity Analyst,SK002,Using AI tools,AI Foundations,3,Medium,Suggested
+R10,Cybersecurity Analyst,SK003,Checking AI output,AI Foundations,3,Medium,Suggested
+R10,Cybersecurity Analyst,SK004,Responsible AI and data use,AI Foundations,3,High,Suggested
+R11,Credit Analyst,SK001,AI concepts and limits,AI Foundations,2,Medium,Suggested
+R11,Credit Analyst,SK002,Using AI tools,AI Foundations,2,Medium,Suggested
+R11,Credit Analyst,SK003,Checking AI output,AI Foundations,2,Medium,Suggested
+R11,Credit Analyst,SK004,Responsible AI and data use,AI Foundations,2,High,Suggested
+R12,Model Risk Analyst,SK001,AI concepts and limits,AI Foundations,3,Medium,Suggested
+R12,Model Risk Analyst,SK002,Using AI tools,AI Foundations,3,Medium,Suggested
+R12,Model Risk Analyst,SK003,Checking AI output,AI Foundations,3,Medium,Suggested
+R12,Model Risk Analyst,SK004,Responsible AI and data use,AI Foundations,3,High,Suggested
+R13,AI Compliance Officer,SK001,AI concepts and limits,AI Foundations,3,Medium,Suggested
+R13,AI Compliance Officer,SK002,Using AI tools,AI Foundations,3,Medium,Suggested
+R13,AI Compliance Officer,SK003,Checking AI output,AI Foundations,3,Medium,Suggested
+R13,AI Compliance Officer,SK004,Responsible AI and data use,AI Foundations,3,High,Suggested
+R14,Branch or Finance Manager,SK001,AI concepts and limits,AI Foundations,2,Medium,Suggested
+R14,Branch or Finance Manager,SK002,Using AI tools,AI Foundations,2,Medium,Suggested
+R14,Branch or Finance Manager,SK003,Checking AI output,AI Foundations,2,Medium,Suggested
+R14,Branch or Finance Manager,SK004,Responsible AI and data use,AI Foundations,2,High,Suggested
+R15,Financial Analyst,SK001,AI concepts and limits,AI Foundations,2,Medium,Suggested
+R15,Financial Analyst,SK002,Using AI tools,AI Foundations,2,Medium,Suggested
+R15,Financial Analyst,SK003,Checking AI output,AI Foundations,2,Medium,Suggested
+R15,Financial Analyst,SK004,Responsible AI and data use,AI Foundations,2,High,Suggested
+R16,Accountant,SK001,AI concepts and limits,AI Foundations,2,Medium,Suggested
+R16,Accountant,SK002,Using AI tools,AI Foundations,2,Medium,Suggested
+R16,Accountant,SK003,Checking AI output,AI Foundations,2,Medium,Suggested
+R16,Accountant,SK004,Responsible AI and data use,AI Foundations,2,High,Suggested
+R01,Bank Teller,SK005,AI-enabled job tasks,Applied AI,2,Medium,Suggested
+R04,Customer Service Officer,SK005,AI-enabled job tasks,Applied AI,2,Medium,Suggested
+R05,Loan Processing Clerk,SK005,AI-enabled job tasks,Applied AI,2,Medium,Suggested
+R02,Relationship Manager,SK005,AI-enabled job tasks,Applied AI,3,Medium,Suggested
+R03,Loan Officer,SK005,AI-enabled job tasks,Applied AI,3,Medium,Suggested
+R11,Credit Analyst,SK005,AI-enabled job tasks,Applied AI,3,Medium,Suggested
+R14,Branch or Finance Manager,SK005,AI-enabled job tasks,Applied AI,3,Medium,Suggested
+R15,Financial Analyst,SK005,AI-enabled job tasks,Applied AI,3,Medium,Suggested
+R16,Accountant,SK005,AI-enabled job tasks,Applied AI,3,Medium,Suggested
+R06,Software Engineer,SK005,AI-enabled job tasks,Applied AI,3,Medium,Suggested
+R07,Systems Analyst,SK005,AI-enabled job tasks,Applied AI,3,Medium,Suggested
+R10,Cybersecurity Analyst,SK005,AI-enabled job tasks,Applied AI,3,Medium,Suggested
+R12,Model Risk Analyst,SK005,AI-enabled job tasks,Applied AI,3,Medium,Suggested
+R13,AI Compliance Officer,SK005,AI-enabled job tasks,Applied AI,3,Medium,Suggested
+R08,Data Scientist,SK005,AI-enabled job tasks,Applied AI,4,High,Suggested
+R09,ML Engineer,SK005,AI-enabled job tasks,Applied AI,4,High,Suggested
+R08,Data Scientist,SK006,AI workflow redesign,Applied AI,3,Medium,Suggested
+R09,ML Engineer,SK006,AI workflow redesign,Applied AI,3,Medium,Suggested
+R06,Software Engineer,SK006,AI workflow redesign,Applied AI,3,Medium,Suggested
+R07,Systems Analyst,SK006,AI workflow redesign,Applied AI,3,Medium,Suggested
+R08,Data Scientist,SK007,Machine learning,Specialist AI,4,High,Suggested
+R09,ML Engineer,SK007,Machine learning,Specialist AI,4,High,Suggested
+R12,Model Risk Analyst,SK007,Machine learning,Specialist AI,2,Medium,Suggested
+R08,Data Scientist,SK008,Statistical modelling,Specialist AI,4,High,Suggested
+R09,ML Engineer,SK008,Statistical modelling,Specialist AI,2,Medium,Suggested
+R12,Model Risk Analyst,SK008,Statistical modelling,Specialist AI,4,High,Suggested
+R08,Data Scientist,SK009,Model evaluation,Specialist AI,4,High,Suggested
+R09,ML Engineer,SK009,Model evaluation,Specialist AI,4,High,Suggested
+R12,Model Risk Analyst,SK009,Model evaluation,Specialist AI,4,High,Suggested
+R13,AI Compliance Officer,SK009,Model evaluation,Specialist AI,2,Medium,Suggested
+R08,Data Scientist,SK010,Generative AI development,Specialist AI,4,High,Suggested
+R09,ML Engineer,SK010,Generative AI development,Specialist AI,4,High,Suggested
+R10,Cybersecurity Analyst,SK010,Generative AI development,Specialist AI,2,Medium,Suggested
+R12,Model Risk Analyst,SK010,Generative AI development,Specialist AI,2,Medium,Suggested
+R13,AI Compliance Officer,SK010,Generative AI development,Specialist AI,2,Medium,Suggested
+R08,Data Scientist,SK011,Data preparation,Specialist AI,4,High,Suggested
+R09,ML Engineer,SK011,Data preparation,Specialist AI,4,High,Suggested
+R12,Model Risk Analyst,SK011,Data preparation,Specialist AI,2,Medium,Suggested
+R08,Data Scientist,SK012,Python programming,Specialist AI,4,High,Suggested
+R09,ML Engineer,SK012,Python programming,Specialist AI,4,High,Suggested
+R10,Cybersecurity Analyst,SK012,Python programming,Specialist AI,2,Medium,Suggested
+R12,Model Risk Analyst,SK012,Python programming,Specialist AI,4,High,Suggested
+R08,Data Scientist,SK013,Data pipeline engineering,Specialist AI,2,Medium,Suggested
+R09,ML Engineer,SK013,Data pipeline engineering,Specialist AI,4,High,Suggested
+R08,Data Scientist,SK014,Model deployment and monitoring,Specialist AI,2,Medium,Suggested
+R09,ML Engineer,SK014,Model deployment and monitoring,Specialist AI,4,High,Suggested
+R12,Model Risk Analyst,SK014,Model deployment and monitoring,Specialist AI,2,Medium,Suggested
+R08,Data Scientist,SK015,AI security,Specialist AI,2,Medium,Suggested
+R09,ML Engineer,SK015,AI security,Specialist AI,4,High,Suggested
+R10,Cybersecurity Analyst,SK015,AI security,Specialist AI,4,High,Suggested
+R12,Model Risk Analyst,SK015,AI security,Specialist AI,2,Medium,Suggested
+R13,AI Compliance Officer,SK015,AI security,Specialist AI,2,Medium,Suggested
+R08,Data Scientist,SK016,Data protection and privacy,Specialist AI,2,Medium,Suggested
+R09,ML Engineer,SK016,Data protection and privacy,Specialist AI,2,Medium,Suggested
+R10,Cybersecurity Analyst,SK016,Data protection and privacy,Specialist AI,4,High,Suggested
+R12,Model Risk Analyst,SK016,Data protection and privacy,Specialist AI,2,Medium,Suggested
+R13,AI Compliance Officer,SK016,Data protection and privacy,Specialist AI,4,High,Suggested
+R08,Data Scientist,SK017,Model validation,Specialist AI,2,Medium,Suggested
+R12,Model Risk Analyst,SK017,Model validation,Specialist AI,4,High,Suggested
+R13,AI Compliance Officer,SK017,Model validation,Specialist AI,2,Medium,Suggested
+R08,Data Scientist,SK018,AI risk assessment,Specialist AI,2,Medium,Suggested
+R09,ML Engineer,SK018,AI risk assessment,Specialist AI,2,Medium,Suggested
+R10,Cybersecurity Analyst,SK018,AI risk assessment,Specialist AI,2,Medium,Suggested
+R12,Model Risk Analyst,SK018,AI risk assessment,Specialist AI,4,High,Suggested
+R13,AI Compliance Officer,SK018,AI risk assessment,Specialist AI,4,High,Suggested
+R10,Cybersecurity Analyst,SK019,AI regulatory compliance,Specialist AI,2,Medium,Suggested
+R12,Model Risk Analyst,SK019,AI regulatory compliance,Specialist AI,4,High,Suggested
+R13,AI Compliance Officer,SK019,AI regulatory compliance,Specialist AI,4,High,Suggested
+R08,Data Scientist,SK020,AI explainability,Specialist AI,4,High,Suggested
+R09,ML Engineer,SK020,AI explainability,Specialist AI,2,Medium,Suggested
+R12,Model Risk Analyst,SK020,AI explainability,Specialist AI,4,High,Suggested
+R13,AI Compliance Officer,SK020,AI explainability,Specialist AI,4,High,Suggested
+R06,Software Engineer,SK012,Python programming,Specialist AI,3,High,Suggested
+R06,Software Engineer,SK014,Model deployment and monitoring,Specialist AI,2,Medium,Suggested
+R06,Software Engineer,SK015,AI security,Specialist AI,2,Medium,Suggested
+R07,Systems Analyst,SK011,Data preparation,Specialist AI,2,Medium,Suggested
+R07,Systems Analyst,SK015,AI security,Specialist AI,2,Medium,Suggested
+R11,Credit Analyst,SK008,Statistical modelling,Specialist AI,2,Medium,Suggested
+R11,Credit Analyst,SK009,Model evaluation,Specialist AI,2,Medium,Suggested
+R15,Financial Analyst,SK011,Data preparation,Specialist AI,2,Medium,Suggested
