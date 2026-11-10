@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+
+# Raw downloads: large, and available from the official sources
+data/raw/
+*.zip
+
+# Generated exploration output
+outputs/
+
+# Never commit employer or employee data
+data/internal/
+
+# Secrets
+.env
