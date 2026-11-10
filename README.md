@@ -4,7 +4,7 @@
 
 📖 Read the full write-up on Medium: https://medium.com/@cheryltansy/do-we-have-enough-ai-skills-building-a-workforce-skills-intelligence-model-for-a-bank-1c12e5f3ebda
 
-> All employee, skill rating and learning data in this repository is \*\*synthetic\*\*. No employer or real employee data was used.
+> All employee, skill rating and learning data in this repository is synthetic. No employer or real employee data was used.
 
 \---
 
